@@ -1,2 +1,2 @@
 # DaveYogurt.github.io
-# Starter site
+Starter site
